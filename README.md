@@ -1,7 +1,7 @@
 
 # [⭐️ 모두를위한인공지능] 강의 자료 Download 
 
-## [‍[💡 신나고 효용있는 SQL / NoSQL 자료실](nosql/readme.md) ]
+## [‍[💡 신나고 효용있는 SQL / NoSQL 자료실](http://github.com/dscoool/nosql/readme.md) ]
 [👨🏼‍🏫 모두를 위한 인공지능 AI 강사]
 
 [[👩‍💻 누구나 할 수 있는 데이터과학 자료실]]
