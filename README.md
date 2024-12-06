@@ -2,13 +2,13 @@
 # [⭐️ 모두의인공지능] 강의 자료 Download 
 
 
-# [⭐️ 이스트소프트 | 정보보안 인공지능](http://github.com/dscoool/aisecurity) 
-# [⭐️ 이스트소프트 | opencv 개인정보 비식별화](http://github.com/dscoool/opencv) 
-# [⭐️ 멀티캠퍼스 | mysql](http://github.com/dscoool/mysql)
-# [충북대학교, 렛유인 | opencv 영상처리](http://github.com/dscoool/chungbuk)
-# [국민대학교 | 물산업혁신인재양성사업 수질데이터분석](https://github.com/dscoool/waterai)
-# [국민대학교 | 2022-2023 데이터엔지니어링](https://github.com/dscoool/dataeng)
-# [GIST| 2021 AI-X융합파이프라인](https://github.com/dscoool?page=2&tab=repositories)
+## [⭐️ 이스트소프트 | 정보보안 인공지능](http://github.com/dscoool/aisecurity) 
+## [⭐️ 이스트소프트 | opencv 개인정보 비식별화](http://github.com/dscoool/opencv) 
+## [⭐️ 멀티캠퍼스 | mysql](http://github.com/dscoool/mysql)
+## [충북대학교, 렛유인 | opencv 영상처리](http://github.com/dscoool/chungbuk)
+## [국민대학교 | 물산업혁신인재양성사업 수질데이터분석](https://github.com/dscoool/waterai)
+## [국민대학교 | 2022-2023 데이터엔지니어링](https://github.com/dscoool/dataeng)
+## [GIST| 2021 AI-X융합파이프라인](https://github.com/dscoool?page=2&tab=repositories)
 
 ## [‍💡 신나고 효용있는 SQL / NoSQL 자료실](http://github.com/dscoool/nosql) 
 👨🏼‍🏫 모두를 위한 인공지능 AI 강사
