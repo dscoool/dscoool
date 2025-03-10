@@ -3,8 +3,8 @@
 
 
 ## [⭐️ 이스트소프트 | 정보보안 인공지능](http://github.com/dscoool/aisecurity) 
-## [교재 | 파이썬으로 만드는 40개의 예제](http://github.com/dscoool/python40)
-## [교재 | 11가지 핵심 예제로 파이썬 머신러닝 정복하기](http://github.com/dscoool/machinelearning11)
+### [교재 | 파이썬으로 만드는 40개의 예제](http://github.com/dscoool/python40)
+### [교재 | 11가지 핵심 예제로 파이썬 머신러닝 정복하기](http://github.com/dscoool/machinelearning11)
 ## [⭐️ 이스트소프트 | opencv 개인정보 비식별화](http://github.com/dscoool/opencv) 
 ## [⭐️ 멀티캠퍼스 | mysql](http://github.com/dscoool/mysql)
 ## [충북대학교, 렛유인 | opencv 영상처리](http://github.com/dscoool/chungbuk)
